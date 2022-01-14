@@ -1,0 +1,15 @@
+C:\Users\Kirubel\Desktop\show\show\assign_seven\bin\Debug\net6.0\assign_seven.exe
+C:\Users\Kirubel\Desktop\show\show\assign_seven\bin\Debug\net6.0\assign_seven.deps.json
+C:\Users\Kirubel\Desktop\show\show\assign_seven\bin\Debug\net6.0\assign_seven.runtimeconfig.json
+C:\Users\Kirubel\Desktop\show\show\assign_seven\bin\Debug\net6.0\assign_seven.dll
+C:\Users\Kirubel\Desktop\show\show\assign_seven\bin\Debug\net6.0\ref\assign_seven.dll
+C:\Users\Kirubel\Desktop\show\show\assign_seven\bin\Debug\net6.0\assign_seven.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.csproj.AssemblyReference.cache
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.AssemblyInfoInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.AssemblyInfo.cs
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.csproj.CoreCompileInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.dll
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\ref\assign_seven.dll
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_seven\obj\Debug\net6.0\assign_seven.genruntimeconfig.cache

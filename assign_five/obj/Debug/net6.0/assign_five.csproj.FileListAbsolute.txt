@@ -1,0 +1,15 @@
+C:\Users\Kirubel\Desktop\show\show\assign_five\bin\Debug\net6.0\assign_five.exe
+C:\Users\Kirubel\Desktop\show\show\assign_five\bin\Debug\net6.0\assign_five.deps.json
+C:\Users\Kirubel\Desktop\show\show\assign_five\bin\Debug\net6.0\assign_five.runtimeconfig.json
+C:\Users\Kirubel\Desktop\show\show\assign_five\bin\Debug\net6.0\assign_five.dll
+C:\Users\Kirubel\Desktop\show\show\assign_five\bin\Debug\net6.0\ref\assign_five.dll
+C:\Users\Kirubel\Desktop\show\show\assign_five\bin\Debug\net6.0\assign_five.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.csproj.AssemblyReference.cache
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.AssemblyInfoInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.AssemblyInfo.cs
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.csproj.CoreCompileInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.dll
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\ref\assign_five.dll
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_five\obj\Debug\net6.0\assign_five.genruntimeconfig.cache

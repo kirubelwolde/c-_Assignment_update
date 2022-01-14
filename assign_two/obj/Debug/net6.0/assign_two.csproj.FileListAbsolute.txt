@@ -1,0 +1,15 @@
+C:\Users\Kirubel\Desktop\show\show\assign_two\bin\Debug\net6.0\assign_two.exe
+C:\Users\Kirubel\Desktop\show\show\assign_two\bin\Debug\net6.0\assign_two.deps.json
+C:\Users\Kirubel\Desktop\show\show\assign_two\bin\Debug\net6.0\assign_two.runtimeconfig.json
+C:\Users\Kirubel\Desktop\show\show\assign_two\bin\Debug\net6.0\assign_two.dll
+C:\Users\Kirubel\Desktop\show\show\assign_two\bin\Debug\net6.0\ref\assign_two.dll
+C:\Users\Kirubel\Desktop\show\show\assign_two\bin\Debug\net6.0\assign_two.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.csproj.AssemblyReference.cache
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.AssemblyInfoInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.AssemblyInfo.cs
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.csproj.CoreCompileInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.dll
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\ref\assign_two.dll
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_two\obj\Debug\net6.0\assign_two.genruntimeconfig.cache

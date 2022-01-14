@@ -1,0 +1,15 @@
+C:\Users\Kirubel\Desktop\show\show\assign_one\bin\Debug\net6.0\assign_one.exe
+C:\Users\Kirubel\Desktop\show\show\assign_one\bin\Debug\net6.0\assign_one.deps.json
+C:\Users\Kirubel\Desktop\show\show\assign_one\bin\Debug\net6.0\assign_one.runtimeconfig.json
+C:\Users\Kirubel\Desktop\show\show\assign_one\bin\Debug\net6.0\assign_one.dll
+C:\Users\Kirubel\Desktop\show\show\assign_one\bin\Debug\net6.0\ref\assign_one.dll
+C:\Users\Kirubel\Desktop\show\show\assign_one\bin\Debug\net6.0\assign_one.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.csproj.AssemblyReference.cache
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.AssemblyInfoInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.AssemblyInfo.cs
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.csproj.CoreCompileInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.dll
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\ref\assign_one.dll
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_one\obj\Debug\net6.0\assign_one.genruntimeconfig.cache

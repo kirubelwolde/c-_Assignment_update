@@ -1,0 +1,15 @@
+C:\Users\Kirubel\Desktop\show\show\assign_three\bin\Debug\net6.0\assign_three.exe
+C:\Users\Kirubel\Desktop\show\show\assign_three\bin\Debug\net6.0\assign_three.deps.json
+C:\Users\Kirubel\Desktop\show\show\assign_three\bin\Debug\net6.0\assign_three.runtimeconfig.json
+C:\Users\Kirubel\Desktop\show\show\assign_three\bin\Debug\net6.0\assign_three.dll
+C:\Users\Kirubel\Desktop\show\show\assign_three\bin\Debug\net6.0\ref\assign_three.dll
+C:\Users\Kirubel\Desktop\show\show\assign_three\bin\Debug\net6.0\assign_three.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.csproj.AssemblyReference.cache
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.AssemblyInfoInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.AssemblyInfo.cs
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.csproj.CoreCompileInputs.cache
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.dll
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\ref\assign_three.dll
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.pdb
+C:\Users\Kirubel\Desktop\show\show\assign_three\obj\Debug\net6.0\assign_three.genruntimeconfig.cache
